@@ -140,3 +140,5 @@ has_many: :items
 
 ### Asociation
 - belongs_to :user
+
+
